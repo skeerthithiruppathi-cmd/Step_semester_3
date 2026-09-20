@@ -1,5 +1,5 @@
 # Step_semester_3
-## Date: 30-08-2026
+## Date: 06-09-2026
 **Today's Work:**
 - Solved 5 class problems and 5 assignment problems
 
@@ -9,7 +9,7 @@
 **Issues Faced:**
 - None
 ---
-## Date: o6-09-2026
+## Date: 30-08-2026
 **Today's Work:**
 - Solved 5 class problems and 5 assignment problems
 
